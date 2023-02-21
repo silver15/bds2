@@ -1,0 +1,1 @@
+INSERTO INTO TB_CLIENTE(name, cpf, income, birth_Date, children) VALUES('Luiz Carlos Silvestrini', '652325659-89', 3.000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 2);
